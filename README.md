@@ -33,7 +33,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Useful resources
 
-- [F8 Official](https://fullstack.edu.vn/) - I have learned HTML & CSS from this site, but it have Vietnamese only.
+- [F8 Official](https://fullstack.edu.vn/) - I have learned HTML & CSS from this site, but the tutorial videos are in Vietnamese.
 
 ## Author
 
